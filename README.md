@@ -41,6 +41,6 @@ MICAS achieves this using an array of light sensitive charged cells inside a dev
 ![alt](https://github.com/ashrikant39/My-files/blob/master/ccd%20(1)%20-%20Copy.gif)
 One of the drawbacks of MICAS is that exposure to sunlight can damage its working. The UV and high intensity Ultra UV radiations can change the crystal structure of CCD. So, it is generally oriented away from Sun.
 One of the coolest application of MICAS is that DS1 uses MICAS to locate and orient itself. This is done using Autonomous Navigation or AutoNav.
-##Autonomous Navigation
+## Autonomous Navigation
 Autonomous Navigation or AutoNav is an experimental system being tested on DS1. It is used by DS1 to navigate itself and intelligently decide whether it is deviating from its programmed path.
 On its path MICAS takes a number of images and stores for reference. While on path AutoNav decides, from the stars, asteroid positions and the reference images, whether the path taken is the desired one. When not, it uses its thrusters and rockets to re-orient itself. 

@@ -24,3 +24,5 @@ So back to our satellite DS1.
 DS1 also uses DSN as the network to downlink data. DS1 mainly transmits two kinds of data :
 * 	Health of spacecraft: It refers to the status of the spacecraft with its surroundings in terms of temperature, pressure, voltages, images etc. These measurements (which may go around 1000 in number) are collected and transmitted as radio waves. These are radio waves are simple enough to be received by any receiver on Earth. They contain mainly information like All OK, Track urgent, Red Alert etc. 
 * Scientific data: The critical tests and measurements, images of various locations of interests, objects of scientific importance etc.  come under this category. These messages are specially encrypted and can be received only by high gain DSN receivers. 
+
+![alt text]()

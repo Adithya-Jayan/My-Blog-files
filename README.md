@@ -38,4 +38,4 @@ MICAS is one of the advanced technologies used in DS1 till date. It is basically
 
 One of the interesting features about MICAS is that it is not only capable of capturing light images but also heat waves, UV and IR radiations and form images out of those waves. These data prove to be quite useful to determine temperature distributions in various desired locations in space through simple images.
 MICAS achieves this using an array of light sensitive charged cells inside a device called Charge Coupled Device (CCD).  These cells absorb the light falling on them, and then releases a specific amount of charge proportional to the intensity of light falling. CCD stores this charge as the value of each pixel in the image. Then each value is binary coded to generate bits, which are transmitted as radio waves to Earth stations or used by DS1 itself. This technique of digital imaging has an advantage over film imaging as film images cannot be transmitted as radio waves.
-![alt]()
+![alt](https://github.com/ashrikant39/My-files/blob/master/ccd%20(1)%20-%20Copy.gif)

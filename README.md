@@ -32,4 +32,4 @@ The primary goal of DS1 in space is to test and execute new technologies in spac
 * Miniature Integrated Camera Spectrometer (MICAS)
 * Autonomous Navigation (AutoNav)
 
-** MICAS ** is one of the advanced technologies used in DS1 till date. It is basically an array of cameras placed on the surface of the craft used to take images in the presence of light in space. From its design, it can be clear that there are no moving parts in DS1 for orienting MICAS. So, for a change in angle, the entire spacecraft has to change its position and attitude (orientation), so as to perfectly capture the images.
+__ MICAS __ is one of the advanced technologies used in DS1 till date. It is basically an array of cameras placed on the surface of the craft used to take images in the presence of light in space. From its design, it can be clear that there are no moving parts in DS1 for orienting MICAS. So, for a change in angle, the entire spacecraft has to change its position and attitude (orientation), so as to perfectly capture the images.

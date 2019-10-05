@@ -17,8 +17,7 @@ and several other independent antennas for tracking the spacecraft.
 Tracking of the satellite is mainly achieved by uplink and downlink communications by satellites and space stations on Earth. Uplink refers to communication from a space station to the satellite, whereas downlink refers to communication from satellite to station. When both uplink and downlink occur, it is referred to as Two Way communication. Communication is mainly done using RF signals (mainly microwaves, i.e. in GHz range). 
 
 ![alt text](https://github.com/ashrikant39/My-files/blob/master/images%20(2).jpg)
-##Lag
-
+## Lag
 Lag is another term that decides the efficiency of communication in DSN. It is the time gap between sending of signal by source and receiving it by the receiver. Lag should be taken care, as when a satellite sends signals for help, instant solutions to the problems must be ready, otherwise making it too late for anything more.
 So back to our satellite DS1. 
  

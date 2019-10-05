@@ -9,5 +9,5 @@ Each location has ultra-sensitive receiver systems with huge antennas namely
 
 and several other independent antennas for tracking the spacecraft.
 
-![alt text](http://www.qrg.northwestern.edu/projects/vss/docs/media/Communications/jpl9015d.jpg)
-![alt text](http://www.qrg.northwestern.edu/projects/vss/docs/media/Communications/Dsn2.GIF)
+![alt text](‪C:\Users\HP\Pictures\images (1).jpg)
+![alt text]()

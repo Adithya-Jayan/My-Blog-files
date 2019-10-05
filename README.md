@@ -13,4 +13,6 @@ and several other independent antennas for tracking the spacecraft.
 ![alt text](https://github.com/ashrikant39/My-files/blob/master/images.jpg)
 ![alt text](http://www.qrg.northwestern.edu/projects/vss/docs/media/Communications/Dsn2.GIF)
 
- ** Uplink and Downlink **
+## Uplink and Downlink
+Tracking of the satellite is mainly achieved by uplink and downlink communications by satellites and space stations on Earth. Uplink refers to communication from a space station to the satellite, whereas downlink refers to communication from satellite to station. When both uplink and downlink occur, it is referred to as Two Way communication. Communication is mainly done using RF signals (mainly microwaves, i.e. in GHz range). 
+

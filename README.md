@@ -44,3 +44,5 @@ One of the coolest application of MICAS is that DS1 uses MICAS to locate and ori
 ## Autonomous Navigation
 Autonomous Navigation or AutoNav is an experimental system being tested on DS1. It is used by DS1 to navigate itself and intelligently decide whether it is deviating from its programmed path.
 On its path MICAS takes a number of images and stores for reference. While on path AutoNav decides, from the stars, asteroid positions and the reference images, whether the path taken is the desired one. When not, it uses its thrusters and rockets to re-orient itself. 
+
+![](https://github.com/ashrikant39/My-files/blob/master/autonav2.gif)

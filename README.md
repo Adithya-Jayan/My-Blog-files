@@ -26,3 +26,9 @@ DS1 also uses DSN as the network to downlink data. DS1 mainly transmits two kind
 * Scientific data: The critical tests and measurements, images of various locations of interests, objects of scientific importance etc.  come under this category. These messages are specially encrypted and can be received only by high gain DSN receivers. 
 
 ![alt text](https://github.com/ashrikant39/My-files/blob/master/health-signals.gif)
+
+Apart from the data, the characteristics of received waves also reveal a lot! The speed of the spacecraft, its distance from Earth and other useful parameters can be calculated by Doppler Effect using the frequency shifts in received waves.
+The primary goal of DS1 in space is to test and execute new technologies in space.  Some of which are:
+* Miniature Integrated Camera Spectrometer (MICAS)
+* Autonomous Navigation (AutoNav)
+

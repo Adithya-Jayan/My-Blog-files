@@ -47,5 +47,6 @@ On its path MICAS takes a number of images and stores for reference. While on pa
 
 ![](https://github.com/ashrikant39/My-files/blob/master/autonav2.gif)
 
-So thats it guys. This concludes my work  on how is DS1 achieving its communication with Earth and Navigation.
-
+So thats it guys. This concludes my work  on how is DS1 achieving its communication with Earth and Navigation. If you guys want some more insight into any of these
+* How basically an RF signal is transmitted over large distance check [here](http://www.qrg.northwestern.edu/projects/vss/docs/Communications/1-how-is-data-put-on-radio-waves.html)
+* Different kinds of antennas [here](http://www.qrg.northwestern.edu/projects/vss/docs/Communications/2-what-kinds-of-antennas.html)

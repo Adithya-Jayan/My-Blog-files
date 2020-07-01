@@ -72,7 +72,9 @@ using the same algorithm as above. The set is then labelled and stored. These ca
 The recognized labels of the handwritten letters are matched with the new letters and the letters are concatenated to from a new image
 of the new handwriting.
 
-![Capture8](https://user-images.githubusercontent.com/50314485/86254981-38e1bb80-bbd4-11ea-9147-b457c68129fb.PNG)
+<img src="https://user-images.githubusercontent.com/50314485/86254981-38e1bb80-bbd4-11ea-9147-b457c68129fb.PNG"
+	title="Cascade" width="5600" height="450" />
+
 
  
  ## Results

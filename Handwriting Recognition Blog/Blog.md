@@ -26,7 +26,7 @@ Each of the objectives were specifically handled by both of the team members.
 ### Segmentation of the text to letters
 
 The handwritten text was to be captured by a camera and made available for processing it digitally. The image obtained was then processed to obtain a 
-low-noise binary thresholded image of the same text. The program ensured that all the lines of the text to be aligned horizontally even if some lines are tilted.
+low-noise binary thresholded image of the same text. The program ensured that all the characters are correctly segmented even if some lines are tilted.
 
 The algorithm used for segmentation was called a 'Projection  Profile'. The whole image was converted to a column vector by taking its sum of values
 along each row. The resultant array was plotted and using suitable thresholds, each line in the text was segmented out to give an array of images copntaining each line.
@@ -49,3 +49,8 @@ using the same algorithm as above. The set was then labelled and stored.
 
 The recognized labels of the handwritten letters were matched with the new letters and the letters were concatenated to from a new image
  of new handwriting.
+ 
+ ## Results
+ 
+ * The segmentaion using projection profle was carried out with a fairly high accuracy.
+ * The CNN model presented a validation accuracy of 

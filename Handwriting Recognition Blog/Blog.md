@@ -25,6 +25,7 @@ Each of the objectives were specifically handled by both of the team members.
 
 ### Segmentation of the text to letters
 
+image 1 and 2
 
 The handwritten text is captured by a camera and made available for digital processing. The image obtained is then processed to obtain a 
 low-noise binary thresholded image of the same text. The program ensured that all the characters are correctly segmented even if some lines are tilted.

@@ -40,4 +40,12 @@ proposed for efficient traini9ng and to get accurate results. A Convolutional Ne
 The dataset for training the model was available as the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
 dataset of handwritten letters and digits. 
 
-The CNN was trained on the dataset and the model was saved as a json file for further importing. 
+The CNN was trained on the dataset and the model was saved as a json file for further importing.
+
+### Replacing each letter in a different handwriting
+
+The set of letters for the seconfd handwriting was created as a single image. The set was again segmented into a set of reference characters
+using the same algorithm as above. The set was then labelled and stored.
+
+The recognized labels of the handwritten letters were matched with the new letters and the letters were concatenated to from the new iamge
+ of new handwriting.

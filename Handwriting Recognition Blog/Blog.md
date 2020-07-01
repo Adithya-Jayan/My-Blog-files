@@ -47,5 +47,5 @@ The CNN was trained on the dataset and the model was saved as a json file for fu
 The set of letters for the seconfd handwriting was created as a single image. The set was again segmented into a set of reference characters
 using the same algorithm as above. The set was then labelled and stored.
 
-The recognized labels of the handwritten letters were matched with the new letters and the letters were concatenated to from the new iamge
+The recognized labels of the handwritten letters were matched with the new letters and the letters were concatenated to from a new image
  of new handwriting.

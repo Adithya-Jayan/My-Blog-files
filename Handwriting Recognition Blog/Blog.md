@@ -32,10 +32,12 @@ The algorithm used for segmentation was called a 'Projection  Profile'. The whol
 along each row. The resultant array was plotted and using suitable thresholds, each line in the text was segmented out to give an array of images copntaining each line.
 The same pocedure aling the columns of each image in the array, gave a final array of characters. This array of letters were passed to the machine learning model for further training.
 
-### Designing and training of the MAchine Learning Model
+### Designing and training of the Machine Learning Model
 
 The segmented characters now, have to be classified into their classed of alphabets and digits. Identifying this classification problem, a deep learning model was 
 proposed for efficient traini9ng and to get accurate results. A Convolutional Neural Network (CNN) model was designed and was decided to use for the model.
 
 The dataset for training the model was available as the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
 dataset of handwritten letters and digits. 
+
+The CNN was trained on the dataset and the model was saved as a json file for further importing. 

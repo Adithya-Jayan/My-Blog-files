@@ -35,10 +35,17 @@ Each of the objectives were specifically handled by both of the team members.
 The handwritten text is captured by a camera and made available for digital processing. The image obtained is then processed to obtain a 
 low-noise binary thresholded image of the same text. The program ensured that all the characters are correctly segmented even if some lines are tilted.
 
-![Capture2](https://user-images.githubusercontent.com/50314485/86254919-2798af00-bbd4-11ea-8457-1f914301257b.PNG)
-![Capture3](https://user-images.githubusercontent.com/50314485/86254934-2b2c3600-bbd4-11ea-82bd-2847bdb3d5d1.PNG)
-![Capture4](https://user-images.githubusercontent.com/50314485/86254935-2c5d6300-bbd4-11ea-984c-49e02995453d.PNG)
-![Capture5](https://user-images.githubusercontent.com/50314485/86254939-2d8e9000-bbd4-11ea-896e-e739cc796d96.PNG)
+<img src="https://user-images.githubusercontent.com/50314485/86254919-2798af00-bbd4-11ea-8457-1f914301257b.PNG"
+	title="Cascade" width="350" height="250" />
+	
+<img src="https://user-images.githubusercontent.com/50314485/86254934-2b2c3600-bbd4-11ea-82bd-2847bdb3d5d1.PNG"
+	title="Cascade" width="350" height="250" />
+
+<img src="https://user-images.githubusercontent.com/50314485/86254935-2c5d6300-bbd4-11ea-984c-49e02995453d.PNG"
+	title="Cascade" width="350" height="250" />
+
+<img src="https://user-images.githubusercontent.com/50314485/86254939-2d8e9000-bbd4-11ea-896e-e739cc796d96.PNG"
+	title="Cascade" width="350" height="250" />
 
 The algorithm used for segmentation is called a 'Projection  Profile'. The whole image is converted to a column vector by taking its sum of values
 along each row. The resultant array is then plotted and using suitable thresholds, each line in the text is segmented out to give an array of images containing one line each.

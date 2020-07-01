@@ -60,3 +60,8 @@ The recognized labels of the handwritten letters were matched with the new lette
  
  The project results can be used to discretize and recognize various aspects of recognition of handwritten text and proves to be of great work to study
  for further improvements to the project like a mechanical arm or a setup for copying the output onto a paper. The study in this field still remains quite interesting and open.
+
+### Acknowledgements
+
+We acknowledge and specially thank for the support and technical guidance given by our seniors Alabhya, Anirudh Athresh and Naman. We also thank IEEE-NITK for supporting
+this project.

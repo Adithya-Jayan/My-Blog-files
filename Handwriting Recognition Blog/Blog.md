@@ -73,7 +73,7 @@ The recognized labels of the handwritten letters are matched with the new letter
 of the new handwriting.
 
 <img src="https://user-images.githubusercontent.com/50314485/86254981-38e1bb80-bbd4-11ea-9147-b457c68129fb.PNG"
-	title="Cascade" width="500" height="450" />
+	title="Cascade" width="350" height="250" />
 
 
  

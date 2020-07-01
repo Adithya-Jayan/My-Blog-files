@@ -25,10 +25,9 @@ Each of the objectives were specifically handled by both of the team members.
 
 ### Segmentation of the text to letters
 
-![Capture](https://user-images.githubusercontent.com/50314485/86254896-210a3780-bbd4-11ea-88b0-04eac9e9dba6.PNG)
 
 <img src="https://user-images.githubusercontent.com/50314485/86254896-210a3780-bbd4-11ea-88b0-04eac9e9dba6.PNG"
-	title="Cascade" width="150" height="100" />
+	title="Cascade" width="350" height="250" />
 
 ![Capture1](https://user-images.githubusercontent.com/50314485/86254915-27001880-bbd4-11ea-9a8a-d00e7007a087.PNG)
 

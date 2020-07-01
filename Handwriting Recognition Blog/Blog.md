@@ -53,4 +53,10 @@ The recognized labels of the handwritten letters were matched with the new lette
  ## Results
  
  * The segmentaion using projection profle was carried out with a fairly high accuracy.
- * The CNN model presented a validation accuracy of 
+ * The CNN model presented a validation accuracy of about 88%.
+ * The image with new handwriting was generated with few feeble errors and a fair accuracy.
+ 
+ ### Application
+ 
+ The project results can be used to discretize and recognize various aspects of recognition of handwritten text and proves to be of great work to study
+ for further improvements to the project like a mechanical arm or a setup for copying the output onto a paper. The study in this field still remains quite interesting and open.

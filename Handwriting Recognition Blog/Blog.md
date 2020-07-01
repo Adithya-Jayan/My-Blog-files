@@ -29,7 +29,8 @@ Each of the objectives were specifically handled by both of the team members.
 <img src="https://user-images.githubusercontent.com/50314485/86254896-210a3780-bbd4-11ea-88b0-04eac9e9dba6.PNG"
 	title="Cascade" width="350" height="250" />
 
-![Capture1](https://user-images.githubusercontent.com/50314485/86254915-27001880-bbd4-11ea-9a8a-d00e7007a087.PNG)
+<img src="https://user-images.githubusercontent.com/50314485/86254915-27001880-bbd4-11ea-9a8a-d00e7007a087.PNG"
+	title="Cascade" width="350" height="250" />
 
 The handwritten text is captured by a camera and made available for digital processing. The image obtained is then processed to obtain a 
 low-noise binary thresholded image of the same text. The program ensured that all the characters are correctly segmented even if some lines are tilted.

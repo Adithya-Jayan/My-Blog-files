@@ -25,9 +25,16 @@ Each of the objectives were specifically handled by both of the team members.
 
 ### Segmentation of the text to letters
 
+![Capture](https://user-images.githubusercontent.com/50314485/86254896-210a3780-bbd4-11ea-88b0-04eac9e9dba6.PNG)
+![Capture1](https://user-images.githubusercontent.com/50314485/86254915-27001880-bbd4-11ea-9a8a-d00e7007a087.PNG)
 
 The handwritten text is captured by a camera and made available for digital processing. The image obtained is then processed to obtain a 
 low-noise binary thresholded image of the same text. The program ensured that all the characters are correctly segmented even if some lines are tilted.
+
+![Capture2](https://user-images.githubusercontent.com/50314485/86254919-2798af00-bbd4-11ea-8457-1f914301257b.PNG)
+![Capture3](https://user-images.githubusercontent.com/50314485/86254934-2b2c3600-bbd4-11ea-82bd-2847bdb3d5d1.PNG)
+![Capture4](https://user-images.githubusercontent.com/50314485/86254935-2c5d6300-bbd4-11ea-984c-49e02995453d.PNG)
+![Capture5](https://user-images.githubusercontent.com/50314485/86254939-2d8e9000-bbd4-11ea-896e-e739cc796d96.PNG)
 
 The algorithm used for segmentation is called a 'Projection  Profile'. The whole image is converted to a column vector by taking its sum of values
 along each row. The resultant array is then plotted and using suitable thresholds, each line in the text is segmented out to give an array of images containing one line each.
@@ -37,6 +44,8 @@ The same pocedure along the columns of each image in the array, gave a final arr
 
 The segmented characters now, have to be classified into their classes of alphabets and digits. Identifying this classification problem, a deep learning model was 
 proposed for efficient training and to get accurate results. A Convolutional Neural Network (CNN) model was designed and used as the model.
+
+![Capture6](https://user-images.githubusercontent.com/50314485/86254951-31221700-bbd4-11ea-97fd-00d6946615d8.PNG)
 
 The dataset used for training the model is the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
 dataset of handwritten letters and digits. 
@@ -50,8 +59,12 @@ using the same algorithm as above. The set is then labelled and stored. These ca
 
 The recognized labels of the handwritten letters are matched with the new letters and the letters are concatenated to from a new image
 of the new handwriting.
+
+![Capture8](https://user-images.githubusercontent.com/50314485/86254981-38e1bb80-bbd4-11ea-9147-b457c68129fb.PNG)
+
  
  ## Results
+ ![Capture7](https://user-images.githubusercontent.com/50314485/86254967-34b59e00-bbd4-11ea-9e4f-75c20dff9909.PNG)
  
  * The segmentaion using projection profle was carried out with a fairly high accuracy.
  * The CNN model presented a validation accuracy of about 88%.

@@ -57,7 +57,7 @@ The segmented characters now, have to be classified into their classes of alphab
 proposed for efficient training and to get accurate results. A Convolutional Neural Network (CNN) model was designed and used as the model.
 
 <img src="https://user-images.githubusercontent.com/50314485/86254951-31221700-bbd4-11ea-97fd-00d6946615d8.PNG"
-	title="Cascade" width="500" height="450" />
+	title="Cascade" width="800" height="700" />
 
 The dataset used for training the model is the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
 dataset of handwritten letters and digits. 

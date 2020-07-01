@@ -69,4 +69,4 @@ this project.
 
 ### References
 
-Projection Profile - 
+Projection Profile [here](https://pdfs.semanticscholar.org/a7e7/7f540e1dfa21287e37c66d9becacb87b38f6.pdf)

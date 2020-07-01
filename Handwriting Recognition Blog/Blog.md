@@ -37,4 +37,5 @@ The same pocedure aling the columns of each image in the array, gave a final arr
 The segmented characters now, have to be classified into their classed of alphabets and digits. Identifying this classification problem, a deep learning model was 
 proposed for efficient traini9ng and to get accurate results. A Convolutional Neural Network (CNN) model was designed and was decided to use for the model.
 
-The dataset for training the model was available as the 'EMNIST' dataset of handwritten letters and digits. 
+The dataset for training the model was available as the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset)
+dataset of handwritten letters and digits. 
